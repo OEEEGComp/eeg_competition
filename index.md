@@ -29,9 +29,6 @@ The training contains 20 `.h5` and `.pickle` file pairs, each representing a par
 - **on_pull_session_idx:** Session index for pull events
 - **on_task_events:** Trial event start
 - **on_task_session_idx:** Session index for trial events
-- **tfr_epochs_on_break:** Multitaper time-frequency representation of breaks
-- **tfr_epochs_on_pull:** Multitaper time-frequency representation of pull events
-- **tfr_epochs_on_task:** Multitaper time-frequency representation of trial events
 
 ## Pickle structure
 
